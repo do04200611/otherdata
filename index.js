@@ -16,6 +16,7 @@ const hiddenButtons3 = document.getElementById('hiddenButtons3');
     const hiddenButtons3 = document.getElementById('hiddenButtons3');
    hiddenButtons1.style.display = 'none'; // 처음에는 숨김
    hiddenButtons2.style.display = 'none'; // 처음에는 숨김
+   hiddenButtons3.style.display = 'none'; // 처음에는 숨김
 
    const toggleButton1 = document.getElementById('toggleButton1');
    const toggleButton2 = document.getElementById('toggleButton2');
